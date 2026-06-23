@@ -1,0 +1,1305 @@
+{
+ "generated": "2026-06-23 12:21",
+ "total": 75,
+ "groups": [
+  {
+   "name": "Monsteras",
+   "ids": [
+    "006",
+    "019",
+    "033",
+    "056"
+   ]
+  },
+  {
+   "name": "Pothos",
+   "ids": [
+    "004",
+    "018",
+    "023",
+    "024",
+    "026",
+    "027",
+    "028",
+    "029"
+   ]
+  },
+  {
+   "name": "Other Aroids",
+   "ids": [
+    "039",
+    "060",
+    "061",
+    "008",
+    "012"
+   ]
+  },
+  {
+   "name": "Calatheas",
+   "ids": [
+    "053",
+    "054",
+    "055",
+    "066",
+    "067"
+   ]
+  },
+  {
+   "name": "Succulents & Cacti",
+   "ids": [
+    "002",
+    "003",
+    "059",
+    "020",
+    "065",
+    "037",
+    "014"
+   ]
+  },
+  {
+   "name": "Snake & ZZ",
+   "ids": [
+    "034",
+    "036",
+    "057",
+    "058"
+   ]
+  },
+  {
+   "name": "Palms & Papyrus",
+   "ids": [
+    "015",
+    "016",
+    "017",
+    "041",
+    "062",
+    "040"
+   ]
+  },
+  {
+   "name": "Ferns",
+   "ids": [
+    "045",
+    "046",
+    "047",
+    "048",
+    "051"
+   ]
+  },
+  {
+   "name": "Dracaenas",
+   "ids": [
+    "005",
+    "010",
+    "021"
+   ]
+  },
+  {
+   "name": "Tradescantias",
+   "ids": [
+    "009",
+    "038",
+    "068"
+   ]
+  },
+  {
+   "name": "Begonias",
+   "ids": [
+    "070",
+    "075"
+   ]
+  },
+  {
+   "name": "Spider Plants",
+   "ids": [
+    "022",
+    "042",
+    "043",
+    "044"
+   ]
+  },
+  {
+   "name": "Trailing & Undergrowth",
+   "ids": [
+    "069",
+    "071",
+    "072",
+    "073",
+    "074",
+    "049",
+    "050",
+    "063",
+    "064",
+    "052",
+    "013",
+    "032",
+    "035",
+    "007"
+   ]
+  },
+  {
+   "name": "Others",
+   "ids": [
+    "001",
+    "011",
+    "025",
+    "030",
+    "031"
+   ]
+  }
+ ],
+ "plants": {
+  "001": {
+   "id": "001",
+   "name": "Rubber Tree 'Tineke'",
+   "latin": "Ficus elastica 'Tineke'",
+   "acquired": "24 Apr 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "002": {
+   "id": "002",
+   "name": "African Milk Tree",
+   "latin": "Euphorbia trigona",
+   "acquired": "25 Apr 2023",
+   "repotted": "20 Jun 2026",
+   "pot": "16×15cm white ceramic",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "003": {
+   "id": "003",
+   "name": "African Milk Tree",
+   "latin": "Euphorbia trigona",
+   "acquired": "25 Apr 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "004": {
+   "id": "004",
+   "name": "Pothos (first one — pretty pot, sentimental)",
+   "latin": "Epipremnum aureum",
+   "acquired": "25 Apr 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260604_051944675.jpg",
+     "date": "2026-06-04"
+    }
+   ]
+  },
+  "005": {
+   "id": "005",
+   "name": "Madagascar Dragon Tree (20yo)",
+   "latin": "Dracaena marginata 'Magenta'",
+   "acquired": "27 Apr 2023",
+   "repotted": "12 Jun 2026",
+   "pot": "34×26cm",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "006": {
+   "id": "006",
+   "name": "Monstera (smaller, living room)",
+   "latin": "Monstera deliciosa",
+   "acquired": "29 Apr 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "007": {
+   "id": "007",
+   "name": "English Ivy",
+   "latin": "Hedera helix",
+   "acquired": "12 May 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240507_192343604.jpg",
+     "date": "2024-05-07"
+    },
+    {
+     "file": "PXL_20240507_194227845.jpg",
+     "date": "2024-05-07"
+    }
+   ]
+  },
+  "008": {
+   "id": "008",
+   "name": "Dieffenbachia 'Camille'",
+   "latin": "Dieffenbachia 'Camille'",
+   "acquired": "12 May 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "009": {
+   "id": "009",
+   "name": "Inch Plant (Wandering Jew)",
+   "latin": "Tradescantia zebrina",
+   "acquired": "12 May 2023",
+   "repotted": "",
+   "pot": "",
+   "notes": "reviving cutting — replant soon",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240509_073231320.jpg",
+     "date": "2024-05-09"
+    },
+    {
+     "file": "PXL_20240609_201313367.jpg",
+     "date": "2024-06-09"
+    },
+    {
+     "file": "PXL_20250309_065552857.jpg",
+     "date": "2025-03-09"
+    },
+    {
+     "file": "PXL_20250309_132804985.jpg",
+     "date": "2025-03-09"
+    },
+    {
+     "file": "PXL_20250309_160152811.jpg",
+     "date": "2025-03-09"
+    }
+   ]
+  },
+  "010": {
+   "id": "010",
+   "name": "Corn Plant",
+   "latin": "Dracaena fragrans",
+   "acquired": "17 May 2023",
+   "repotted": "12 Jun 2026",
+   "pot": "34×26cm",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20250510_140913086.jpg",
+     "date": "2025-05-10"
+    }
+   ]
+  },
+  "011": {
+   "id": "011",
+   "name": "Umbrella Tree (Schefflera)",
+   "latin": "Schefflera actinophylla",
+   "acquired": "20 May 2023",
+   "repotted": "12 Jun 2026",
+   "pot": "34×26cm",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240511_095745439.jpg",
+     "date": "2024-05-11"
+    },
+    {
+     "file": "PXL_20240511_100855478.jpg",
+     "date": "2024-05-11"
+    },
+    {
+     "file": "PXL_20260611_143536557.jpg",
+     "date": "2026-06-11"
+    },
+    {
+     "file": "PXL_20260611_154052616.jpg",
+     "date": "2026-06-11"
+    }
+   ]
+  },
+  "012": {
+   "id": "012",
+   "name": "Chinese Evergreen (Aglaonema)",
+   "latin": "Aglaonema sp.",
+   "acquired": "22 Feb 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "from IKEA — scorches in direct sun",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230512_082525914.jpg",
+     "date": "2023-05-12"
+    }
+   ]
+  },
+  "013": {
+   "id": "013",
+   "name": "Wax Plant",
+   "latin": "Hoya carnosa",
+   "acquired": "14 Mar 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "NOT for Lechuza; bright indirect, let dry between waterings",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240413_073333628.MP.jpg",
+     "date": "2024-04-13"
+    },
+    {
+     "file": "PXL_20240513_200341432.jpg",
+     "date": "2024-05-13"
+    }
+   ]
+  },
+  "014": {
+   "id": "014",
+   "name": "String of Hearts",
+   "latin": "Ceropegia woodii",
+   "acquired": "Apr 2024 (exact date unknown)",
+   "repotted": "",
+   "pot": "",
+   "notes": "weakened base from prior overwatering; propagate via node cuttings; NOT for Lechuza",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20241214_191120564.jpg",
+     "date": "2024-12-14"
+    },
+    {
+     "file": "PXL_20250914_191455636.jpg",
+     "date": "2025-09-14"
+    }
+   ]
+  },
+  "015": {
+   "id": "015",
+   "name": "Umbrella Palm",
+   "latin": "Cyperus alternifolius",
+   "acquired": "21 Apr 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "propagated from Pierre (1 of 3)",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240915_083830312.jpg",
+     "date": "2024-09-15"
+    }
+   ]
+  },
+  "016": {
+   "id": "016",
+   "name": "Umbrella Palm",
+   "latin": "Cyperus alternifolius",
+   "acquired": "21 Apr 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "propagated from Pierre (2 of 3)",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20241216_145724204.jpg",
+     "date": "2024-12-16"
+    }
+   ]
+  },
+  "017": {
+   "id": "017",
+   "name": "Umbrella Palm",
+   "latin": "Cyperus alternifolius",
+   "acquired": "21 Apr 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "propagated from Pierre (3 of 3)",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230517_090108530.MP.jpg",
+     "date": "2023-05-17"
+    },
+    {
+     "file": "PXL_20230517_092051170.jpg",
+     "date": "2023-05-17"
+    },
+    {
+     "file": "PXL_20251217_184208540.jpg",
+     "date": "2025-12-17"
+    }
+   ]
+  },
+  "018": {
+   "id": "018",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "7 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240218_180702881.MP.jpg",
+     "date": "2024-02-18"
+    }
+   ]
+  },
+  "019": {
+   "id": "019",
+   "name": "Monstera (white pot)",
+   "latin": "Monstera deliciosa",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": []
+  },
+  "020": {
+   "id": "020",
+   "name": "Jade Plant",
+   "latin": "Crassula ovata",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230520_150841394.MP.jpg",
+     "date": "2023-05-20"
+    },
+    {
+     "file": "PXL_20230520_152736360.MP.jpg",
+     "date": "2023-05-20"
+    },
+    {
+     "file": "PXL_20260620_062348404.jpg",
+     "date": "2026-06-20"
+    },
+    {
+     "file": "PXL_20260620_070957028.jpg",
+     "date": "2026-06-20"
+    },
+    {
+     "file": "PXL_20260620_072610949.MP.jpg",
+     "date": "2026-06-20"
+    }
+   ]
+  },
+  "021": {
+   "id": "021",
+   "name": "Madagascar Dragon Tree (2nd)",
+   "latin": "Dracaena marginata",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240421_055830948.jpg",
+     "date": "2024-04-21"
+    }
+   ]
+  },
+  "022": {
+   "id": "022",
+   "name": "Spider Plant",
+   "latin": "Chlorophytum comosum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": []
+  },
+  "023": {
+   "id": "023",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240425_082023670.jpg",
+     "date": "2024-04-25"
+    },
+    {
+     "file": "PXL_20260523_154455297.jpg",
+     "date": "2026-05-23"
+    }
+   ]
+  },
+  "024": {
+   "id": "024",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20250824_081354588.jpg",
+     "date": "2025-08-24"
+    },
+    {
+     "file": "PXL_20260524_060531874.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_062303319.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063240778.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063301993.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063310681.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063354843.jpg",
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "025": {
+   "id": "025",
+   "name": "Narrowleaf Fig",
+   "latin": "Ficus maclellandii",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle; hallway, sparse/low light",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230425_155631484.jpg",
+     "date": "2023-04-25"
+    },
+    {
+     "file": "PXL_20240425_082023670.jpg",
+     "date": "2024-04-25"
+    },
+    {
+     "file": "PXL_20240425_092424879.MP.jpg",
+     "date": "2024-04-25"
+    }
+   ]
+  },
+  "026": {
+   "id": "026",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230426_103445551.jpg",
+     "date": "2023-04-26"
+    }
+   ]
+  },
+  "027": {
+   "id": "027",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240827_204444948.jpg",
+     "date": "2024-08-27"
+    }
+   ]
+  },
+  "028": {
+   "id": "028",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230428_081621930.jpg",
+     "date": "2023-04-28"
+    },
+    {
+     "file": "PXL_20230428_094648317.jpg",
+     "date": "2023-04-28"
+    },
+    {
+     "file": "PXL_20240528_153832698.jpg",
+     "date": "2024-05-28"
+    },
+    {
+     "file": "PXL_20240528_175249791.jpg",
+     "date": "2024-05-28"
+    },
+    {
+     "file": "PXL_20260620_070957028.jpg",
+     "date": "2026-06-20"
+    }
+   ]
+  },
+  "029": {
+   "id": "029",
+   "name": "Pothos",
+   "latin": "Epipremnum aureum",
+   "acquired": "11 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "Neukölln mover bundle",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230429_163610718.jpg",
+     "date": "2023-04-29"
+    },
+    {
+     "file": "PXL_20230529_071927863.jpg",
+     "date": "2023-05-29"
+    },
+    {
+     "file": "PXL_20260529_041855802.jpg",
+     "date": "2026-05-29"
+    }
+   ]
+  },
+  "030": {
+   "id": "030",
+   "name": "Common Jasmine",
+   "latin": "Jasminum officinale",
+   "acquired": "28 May 2024",
+   "repotted": "11 Jun 2026",
+   "pot": "Paros terracotta ~45×21×24.5cm",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240530_054904497.jpg",
+     "date": "2024-05-30"
+    },
+    {
+     "file": "PXL_20260530_154819222.jpg",
+     "date": "2026-05-30"
+    }
+   ]
+  },
+  "031": {
+   "id": "031",
+   "name": "Asparagus Fern",
+   "latin": "Asparagus setaceus",
+   "acquired": "28 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "assumed same day as Jasmine",
+   "hero": null,
+   "photos": []
+  },
+  "032": {
+   "id": "032",
+   "name": "Peperomia (variegated baby rubber plant)",
+   "latin": "Peperomia obtusifolia 'Variegata'",
+   "acquired": "28 May 2024",
+   "repotted": "",
+   "pot": "",
+   "notes": "overwatered — recovering; same day as Jasmine",
+   "hero": null,
+   "photos": []
+  },
+  "033": {
+   "id": "033",
+   "name": "Monstera (smallest)",
+   "latin": "Monstera deliciosa",
+   "acquired": "Aug 2024 (exact date unknown)",
+   "repotted": "",
+   "pot": "",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "034": {
+   "id": "034",
+   "name": "African Spear",
+   "latin": "Sansevieria cylindrica (Dracaena angolensis)",
+   "acquired": "Aug 2024 (exact date unknown)",
+   "repotted": "",
+   "pot": "",
+   "notes": "slender variety; NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "035": {
+   "id": "035",
+   "name": "Polka Dot Plant (pink)",
+   "latin": "Hypoestes phyllostachya",
+   "acquired": "Aug 2024 (exact date unknown)",
+   "repotted": "",
+   "pot": "",
+   "notes": "bright indirect — scorches in full sun",
+   "hero": null,
+   "photos": []
+  },
+  "036": {
+   "id": "036",
+   "name": "Bird's Nest Snake Plant",
+   "latin": "Sansevieria trifasciata (dwarf rosette, cultivar TBD)",
+   "acquired": "Aug 2024 (exact date unknown)",
+   "repotted": "",
+   "pot": "",
+   "notes": "NOT for Lechuza; ZZ/snake-compatible watering",
+   "hero": null,
+   "photos": []
+  },
+  "037": {
+   "id": "037",
+   "name": "Spukpalme (Madagascar Jewel, \"mini bender\")",
+   "latin": "Euphorbia leuconeura",
+   "acquired": "9 Mar 2025",
+   "repotted": "",
+   "pot": "",
+   "notes": "present from Maita; toxic latex, never mist",
+   "hero": null,
+   "photos": []
+  },
+  "038": {
+   "id": "038",
+   "name": "Purple Heart (Tradescantia)",
+   "latin": "Tradescantia subg. Setcreasea",
+   "acquired": "27 Apr 2025",
+   "repotted": "",
+   "pot": "",
+   "notes": "cutting from Lucile; reddens/purples in sun",
+   "hero": null,
+   "photos": []
+  },
+  "039": {
+   "id": "039",
+   "name": "Philodendron gloriosum",
+   "latin": "Philodendron gloriosum",
+   "acquired": "23 Apr 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "bright indirect, high humidity, aroid mix, NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "040": {
+   "id": "040",
+   "name": "Dwarf Papyrus",
+   "latin": "Cyperus papyrus 'Nanus'",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch",
+   "hero": null,
+   "photos": []
+  },
+  "041": {
+   "id": "041",
+   "name": "Umbrella Palm (Lechuza, propagating)",
+   "latin": "Cyperus alternifolius",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "propagating in Lechuza; separate from standalone trio",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260529_041855802.jpg",
+     "date": "2026-05-29"
+    }
+   ]
+  },
+  "042": {
+   "id": "042",
+   "name": "Spider Plant 'Bonnie'",
+   "latin": "Chlorophytum comosum 'Bonnie'",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (1 of 3)",
+   "hero": null,
+   "photos": []
+  },
+  "043": {
+   "id": "043",
+   "name": "Spider Plant 'Bonnie'",
+   "latin": "Chlorophytum comosum 'Bonnie'",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (2 of 3)",
+   "hero": null,
+   "photos": []
+  },
+  "044": {
+   "id": "044",
+   "name": "Spider Plant 'Bonnie'",
+   "latin": "Chlorophytum comosum 'Bonnie'",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (3 of 3)",
+   "hero": null,
+   "photos": []
+  },
+  "045": {
+   "id": "045",
+   "name": "Bird's Nest Fern",
+   "latin": "Asplenium nidus",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (1 of 2); never mist crown",
+   "hero": null,
+   "photos": []
+  },
+  "046": {
+   "id": "046",
+   "name": "Bird's Nest Fern",
+   "latin": "Asplenium nidus",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (2 of 2); never mist crown",
+   "hero": null,
+   "photos": []
+  },
+  "047": {
+   "id": "047",
+   "name": "Maidenhair Spleenwort",
+   "latin": "Asplenium trichomanes",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (1 of 2)",
+   "hero": null,
+   "photos": []
+  },
+  "048": {
+   "id": "048",
+   "name": "Maidenhair Spleenwort",
+   "latin": "Asplenium trichomanes",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch (2 of 2)",
+   "hero": null,
+   "photos": []
+  },
+  "049": {
+   "id": "049",
+   "name": "Coleus (red/dark)",
+   "latin": "Coleus scutellarioides",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch",
+   "hero": null,
+   "photos": []
+  },
+  "050": {
+   "id": "050",
+   "name": "Coleus (lime-green)",
+   "latin": "Coleus scutellarioides",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch",
+   "hero": null,
+   "photos": []
+  },
+  "051": {
+   "id": "051",
+   "name": "Shield Fern",
+   "latin": "Polystichum / Dryopteris sp.",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230517_092051170.jpg",
+     "date": "2023-05-17"
+    },
+    {
+     "file": "PXL_20260604_051944675.jpg",
+     "date": "2026-06-04"
+    }
+   ]
+  },
+  "052": {
+   "id": "052",
+   "name": "Purple Passion Plant",
+   "latin": "Gynura aurantiaca",
+   "acquired": "23 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Lechuza batch; velvety purple, never mist",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260611_154052616.jpg",
+     "date": "2026-06-11"
+    }
+   ]
+  },
+  "053": {
+   "id": "053",
+   "name": "Calathea 'White Fusion'",
+   "latin": "Calathea lietzei 'White Fusion'",
+   "acquired": "24 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "sick — CAREO spider-mite treatment; distilled water, 60%+ humidity, never mist",
+   "hero": null,
+   "photos": []
+  },
+  "054": {
+   "id": "054",
+   "name": "Calathea 'Vittata'",
+   "latin": "Calathea 'Vittata' (Goeppertia)",
+   "acquired": "24 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "distilled water, 60%+ humidity, bright indirect",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240530_054904497.jpg",
+     "date": "2024-05-30"
+    }
+   ]
+  },
+  "055": {
+   "id": "055",
+   "name": "Calathea 'Grey Star'",
+   "latin": "Calathea 'Setosa' (Goeppertia setosa) — tentative, re-confirm when mature",
+   "acquired": "24 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "distilled water, 60%+ humidity; ID provisional",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240421_055830948.jpg",
+     "date": "2024-04-21"
+    }
+   ]
+  },
+  "056": {
+   "id": "056",
+   "name": "Monstera adansonii",
+   "latin": "Monstera adansonii",
+   "acquired": "24 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "swiss cheese vine; bright/moderate indirect, filtered water preferred",
+   "hero": null,
+   "photos": []
+  },
+  "057": {
+   "id": "057",
+   "name": "Snake Plant",
+   "latin": "Dracaena trifasciata",
+   "acquired": "30 May 2026",
+   "repotted": "(repotted)",
+   "pot": "23×22cm",
+   "notes": "bone dry before watering, bright indirect, NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "058": {
+   "id": "058",
+   "name": "ZZ Plant",
+   "latin": "Zamioculcas zamiifolia",
+   "acquired": "30 May 2026",
+   "repotted": "(repotted)",
+   "pot": "26×21cm",
+   "notes": "bone dry before watering, bright indirect, NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "059": {
+   "id": "059",
+   "name": "African Milk Tree",
+   "latin": "Euphorbia trigona",
+   "acquired": "30 May 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "3rd African Milk Tree; cactus mix, full sun, NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "060": {
+   "id": "060",
+   "name": "Alocasia 'Black Velvet'",
+   "latin": "Alocasia reginula",
+   "acquired": "4 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Kleinanzeigen bundle; bright indirect, high humidity, aroid mix, filtered water, NOT for Lechuza",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260524_060531874.jpg",
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "061": {
+   "id": "061",
+   "name": "Alocasia 'Red Secret' (Cuprea)",
+   "latin": "Alocasia cuprea",
+   "acquired": "4 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "bright indirect, high humidity, aroid mix, filtered water, NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "062": {
+   "id": "062",
+   "name": "Kentia Palm",
+   "latin": "Howea forsteriana",
+   "acquired": "4 Jun 2026",
+   "repotted": "12 Jun 2026",
+   "pot": "34×26cm",
+   "notes": "",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260524_062303319.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260620_062348404.jpg",
+     "date": "2026-06-20"
+    }
+   ]
+  },
+  "063": {
+   "id": "063",
+   "name": "Bloodleaf (crimson/red form)",
+   "latin": "Iresine herbstii",
+   "acquired": "4 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Kleinanzeigen bundle; currently shares pot with #064 — to separate; bright indirect, keep moist, NOT for Lechuza",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260524_063240778.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063301993.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063310681.jpg",
+     "date": "2026-05-24"
+    },
+    {
+     "file": "PXL_20260524_063354843.jpg",
+     "date": "2026-05-24"
+    }
+   ]
+  },
+  "064": {
+   "id": "064",
+   "name": "Bloodleaf (variegated lime/yellow form)",
+   "latin": "Iresine herbstii 'Aureoreticulata'",
+   "acquired": "4 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Kleinanzeigen bundle; currently shares pot with #063 — to separate; bright indirect, keep moist, NOT for Lechuza",
+   "hero": null,
+   "photos": []
+  },
+  "065": {
+   "id": "065",
+   "name": "Echeveria 'Red Edge'",
+   "latin": "Echeveria 'Red Edge'",
+   "acquired": "4 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "label confirmed; brightest spot, cactus mix, never mist, NOT for Lechuza",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20250309_065552857.jpg",
+     "date": "2025-03-09"
+    }
+   ]
+  },
+  "066": {
+   "id": "066",
+   "name": "Peacock Plant (Cathedral Windows)",
+   "latin": "Calathea makoyana (Goeppertia makoyana)",
+   "acquired": "4 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "Kleinanzeigen bundle; distilled water, 60%+ humidity, bright indirect; group with Calatheas",
+   "hero": null,
+   "photos": []
+  },
+  "067": {
+   "id": "067",
+   "name": "Calathea orbifolia",
+   "latin": "Calathea orbifolia (Goeppertia orbifolia)",
+   "acquired": "11 Jun 2026",
+   "repotted": "11 Jun 2026",
+   "pot": "Elho self-watering 37×27cm",
+   "notes": "",
+   "hero": null,
+   "photos": []
+  },
+  "068": {
+   "id": "068",
+   "name": "Inch Plant (pink form)",
+   "latin": "Tradescantia zebrina",
+   "acquired": "11 Jun 2026",
+   "repotted": "11 Jun 2026",
+   "pot": "Elho self-watering 37×27cm",
+   "notes": "distinct from #009 (dark purple)",
+   "hero": null,
+   "photos": []
+  },
+  "069": {
+   "id": "069",
+   "name": "Nerve Plant (white vein)",
+   "latin": "Fittonia albivenis",
+   "acquired": "11 Jun 2026",
+   "repotted": "11 Jun 2026",
+   "pot": "Elho self-watering 37×27cm",
+   "notes": "undergrowth",
+   "hero": null,
+   "photos": []
+  },
+  "070": {
+   "id": "070",
+   "name": "Rex Begonia",
+   "latin": "Begonia rex",
+   "acquired": "11 Jun 2026",
+   "repotted": "11 Jun 2026",
+   "pot": "Elho self-watering 37×27cm",
+   "notes": "held to grow before leaf-cutting propagation",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260620_070957028.jpg",
+     "date": "2026-06-20"
+    }
+   ]
+  },
+  "071": {
+   "id": "071",
+   "name": "Nerve Plant (red vein)",
+   "latin": "Fittonia albivenis (red form)",
+   "acquired": "20 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "undergrowth; clumps split into host pots",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20230529_071927863.jpg",
+     "date": "2023-05-29"
+    }
+   ]
+  },
+  "072": {
+   "id": "072",
+   "name": "Turtle Vine",
+   "latin": "Callisia repens 'Rosato'",
+   "acquired": "20 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "undergrowth; into host pots",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20260620_072610949.MP.jpg",
+     "date": "2026-06-20"
+    }
+   ]
+  },
+  "073": {
+   "id": "073",
+   "name": "Grey Baby Tears",
+   "latin": "Pilea glauca",
+   "acquired": "20 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "undergrowth; needs consistent moisture",
+   "hero": null,
+   "photos": [
+    {
+     "file": "PXL_20240413_073333628.MP.jpg",
+     "date": "2024-04-13"
+    },
+    {
+     "file": "PXL_20240509_073231320.jpg",
+     "date": "2024-05-09"
+    }
+   ]
+  },
+  "074": {
+   "id": "074",
+   "name": "Creeping Fig",
+   "latin": "Ficus pumila",
+   "acquired": "20 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "undergrowth; aggressive climber, high humidity",
+   "hero": null,
+   "photos": []
+  },
+  "075": {
+   "id": "075",
+   "name": "Rex Begonia (smaller, pinker)",
+   "latin": "Begonia rex",
+   "acquired": "20 Jun 2026",
+   "repotted": "",
+   "pot": "",
+   "notes": "2nd begonia; held to grow before leaf-cutting propagation",
+   "hero": null,
+   "photos": []
+  }
+ }
+}
